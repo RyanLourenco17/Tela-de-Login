@@ -1,2 +1,2 @@
 # Tela-de-Login
-Repositório destinado a minha primeira página de Llogin
+Repositório destinado a minha primeira página de Login
